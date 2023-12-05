@@ -6,6 +6,12 @@ header{
     box-sizing: border-box;
     padding: 20px;
   }
+  nav ul{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    padding: 0;
+  }
   main{
     min-height: 600px;
     background-color: #999999;
